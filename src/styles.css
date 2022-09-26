@@ -17,3 +17,9 @@ h1 {
   display: block;
   margin: 30px auto;
 }
+.imgSize {
+  max-width: 600px;
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+}
